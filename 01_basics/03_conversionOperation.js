@@ -20,9 +20,14 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 // console.log(booleanIsLoggedIn);
 
 let someNumber = 50
-
 let stringNumber = String(someNumber)
+// console.log( typeof stringNumber);
 
-console.log( typeof stringNumber);
+//************* Operations *************
+
+let value = 3
+let negValue = -value
+console.log(negValue);
+
 
 
